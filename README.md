@@ -8,12 +8,43 @@ The challenge given to me was to refactor the code in a way that the functionali
 
 ## Examples
 
+Semantic HTML:
+
+![semantic html](https://user-images.githubusercontent.com/116764540/201160550-278df5e9-e309-4a69-bc67-7ecc950f09c2.png)
+
+Logically structured HTML that provides accessibility through alt text for images:
+
+![alt-text](https://user-images.githubusercontent.com/116764540/201160927-610fb64d-3ec6-4db1-80cb-eb4768521a6f.png)
+
 ## License
+
+MIT License
+
+Copyright (c) 2022 Kelley Flinn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## References
 
-Original code provided by UCF Coding Bootcamp, edX Boot Camps LLC.
+Original code provided by UCF Coding Bootcamp, 2022 edX Boot Camps LLC.
 
 ## Technologies Used
 Language: HTML
+
 Language: CSS
