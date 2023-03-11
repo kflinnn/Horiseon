@@ -24,7 +24,7 @@ Deployed Page:
 
 ![Screen Shot 2023-03-11 at 11 53 02 AM](https://user-images.githubusercontent.com/116764540/224497155-d9c54674-aab2-4bed-9ef3-05180abab8ab.png)
 
-##Deployment
+## Deployment
 
 https://kflinnn.github.io/Horiseon/
 
